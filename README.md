@@ -1,6 +1,7 @@
 # Project_F.O.U.R-Knights_Lament
 A personal project I tinker in my free time learning C# and graphic design.
 
+![](Images/Screenshot.png)
 
 "Knight's Lament" is a 2D pixel art platformer game made in Unity and its a **WIP** project <br>
 ***As for now it has no specific storyline or anything of a gameplay, except a starting area and a main menu screen*** <br>
