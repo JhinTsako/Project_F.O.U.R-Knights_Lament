@@ -7,7 +7,11 @@ A personal project I tinker in my free time learning C# and graphic design.
 ***As for now it has no specific storyline or anything of a gameplay, except a starting area and a main menu screen*** <br>
 
 ## Core
-Here I will update you with every change I make to this project and provide some more screenshots of the graphical improvments and additions!
+### Update 0.01 <br>
+Fixed some minor graphical issues and updated some others
+Added 1/3 Basic Attack Animations
+
+Its been a while and I had no time to work on this unfortunately, next one is gonna be sooner and its gonan be bigger!! <br>
 
 ### Feel free to check everything out!
 ***Note***
