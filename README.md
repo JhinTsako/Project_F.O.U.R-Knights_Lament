@@ -14,5 +14,5 @@ Added 1/3 Basic Attack Animations
 Its been a while and I had no time to work on this unfortunately, next one is gonna be sooner and its gonan be bigger!! <br>
 
 ### Feel free to check everything out!
-***Note***
+***Note***<br>
 Not every script or game object is made by myself here, but most if not all are modified heavily to my taste and testing my limits so it is a unique asset in the end!
