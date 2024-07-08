@@ -70,6 +70,7 @@
     <Compile Include="Assets\Texture\RainMaker\Prefab\RainCollision.cs" />
     <Compile Include="Assets\Texture\Third Party\Lucid Editor\Runtime\Attributes\HelpBoxAttribute.cs" />
     <Compile Include="Assets\Texture\Third Party\Lucid Editor\Runtime\Attributes\HorizontalLineAttribute.cs" />
+    <Compile Include="Assets\scripts\StateMachine\SetBooleanBehaviour.cs" />
     <Compile Include="Assets\scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Texture\Third Party\Lucid Editor\Runtime\Attributes\DisableInEditModeAttribute.cs" />
     <Compile Include="Assets\Texture\Third Party\Lucid Editor\Runtime\Attributes\SectionHeaderAttribute.cs" />
