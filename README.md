@@ -11,7 +11,7 @@ A personal project I tinker in my free time learning C# and graphic design.
 Fixed some minor graphical issues and updated some others
 Added 1/3 Basic Attack Animations
 
-Its been a while and I had no time to work on this unfortunately, next one is gonna be sooner and its gonna be bigger!! <br>
+Its been a while and I had no time to work on this unfortunately, next one is gonna be sooner (probably) <br>
 
 ### Feel free to check everything out!
 ***Note***<br>
