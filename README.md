@@ -8,8 +8,8 @@ A personal project I tinker in my free time learning C# and graphic design.
 
 ## Core
 ### Update 0.01 <br>
-Fixed some minor graphical issues and updated some others
-Added 1/3 Basic Attack Animations
+- Fixed some minor graphical issues and updated some others
+- Added 1/3 Basic Attack Animations
 
 Its been a while and I had no time to work on this unfortunately, next one is gonna be sooner (probably) <br>
 
